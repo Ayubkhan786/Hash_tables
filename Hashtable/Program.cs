@@ -35,8 +35,20 @@ Console.WriteLine(HashFrequency<string>.FindFrequency(l1, "paranoid"));
 
 
 
+//To Delete the Word
 
+string Del = "Paranoids are notparanoid because they are paranoid butbecause they keep putting themselvesdeliberately into paranoid avoidable situations";
 
+HashFrequency<string> list1 = new HashFrequency<string>();
+
+list1.Insert("to");
+list1.Insert("be");
+list1.Insert("or");
+list1.Insert("not");
+list1.Insert("to");
+list1.Insert("be");
+list1.Insert("Paranoids are notparanoid because they are paranoid butbecause they keep putting themselvesdeliberately into paranoid avoidable situations");
+list1.Delete("avoidable",Del.GetHashCode());
 
 
 

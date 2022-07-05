@@ -46,6 +46,18 @@ namespace Hashtable
             }
             return count;
         }
+        public void Delete(Gtype data, long hashcode)             
+        {
+
+            linkedlist<Gtype> temp;
+            temp = key_array[hashcode % 11];
+            Console.WriteLine("Linked List has ");
+            temp.Display();
+            int index = temp.Find(data);
+            temp.DeleteBetween(data, index);
+            Console.WriteLine("After deleting , linked list has ");
+            temp.Display();
+        }
     }
 }
 
