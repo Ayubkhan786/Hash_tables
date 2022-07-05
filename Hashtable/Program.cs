@@ -12,13 +12,22 @@ list.Insert("not");
 list.Insert("to");
 list.Insert("be");
 
-
 string f1, f2;
 Console.WriteLine("Enter the String : ");
 f1 = Console.ReadLine();
 Console.WriteLine(HashFrequency<string>.FindFrequency(f1, "to"));
 f2 = Console.ReadLine();
 Console.WriteLine(HashFrequency<string>.FindFrequency(f2, "be"));
+
+
+
+
+//To find the frequency of Larger words
+
+string l1;
+Console.WriteLine("Enter the String : ");
+l1 = "Paranoids are notparanoid because they are paranoid butbecause they keep putting themselvesdeliberately into paranoid avoidablesituations";
+Console.WriteLine(HashFrequency<string>.FindFrequency(l1, "paranoid"));
 
 
 
