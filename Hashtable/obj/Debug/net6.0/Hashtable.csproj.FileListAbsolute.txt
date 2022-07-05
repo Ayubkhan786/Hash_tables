@@ -1,0 +1,15 @@
+C:\Users\Ayub\source\repos\Hashtable\Hashtable\obj\Debug\net6.0\Hashtable.csproj.AssemblyReference.cache
+C:\Users\Ayub\source\repos\Hashtable\Hashtable\obj\Debug\net6.0\Hashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayub\source\repos\Hashtable\Hashtable\obj\Debug\net6.0\Hashtable.AssemblyInfoInputs.cache
+C:\Users\Ayub\source\repos\Hashtable\Hashtable\obj\Debug\net6.0\Hashtable.AssemblyInfo.cs
+C:\Users\Ayub\source\repos\Hashtable\Hashtable\obj\Debug\net6.0\Hashtable.csproj.CoreCompileInputs.cache
+C:\Users\Ayub\source\repos\Hashtable\Hashtable\bin\Debug\net6.0\Hashtable.exe
+C:\Users\Ayub\source\repos\Hashtable\Hashtable\bin\Debug\net6.0\Hashtable.deps.json
+C:\Users\Ayub\source\repos\Hashtable\Hashtable\bin\Debug\net6.0\Hashtable.runtimeconfig.json
+C:\Users\Ayub\source\repos\Hashtable\Hashtable\bin\Debug\net6.0\Hashtable.dll
+C:\Users\Ayub\source\repos\Hashtable\Hashtable\bin\Debug\net6.0\Hashtable.pdb
+C:\Users\Ayub\source\repos\Hashtable\Hashtable\obj\Debug\net6.0\Hashtable.dll
+C:\Users\Ayub\source\repos\Hashtable\Hashtable\obj\Debug\net6.0\refint\Hashtable.dll
+C:\Users\Ayub\source\repos\Hashtable\Hashtable\obj\Debug\net6.0\Hashtable.pdb
+C:\Users\Ayub\source\repos\Hashtable\Hashtable\obj\Debug\net6.0\Hashtable.genruntimeconfig.cache
+C:\Users\Ayub\source\repos\Hashtable\Hashtable\obj\Debug\net6.0\ref\Hashtable.dll
